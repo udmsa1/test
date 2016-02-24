@@ -8,7 +8,7 @@
     editor=""/>
 
 <tags
-    ms.service="multiple"
+    ms.service="ArMSe"
     ms.workload="na"
     ms.tgt_pltfrm="multiple"
     ms.devlang="Java"
